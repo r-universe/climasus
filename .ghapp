@@ -1,0 +1,10 @@
+{
+  "id": 125271047,
+  "created_at": "2026-04-19T14:12:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["climasus-data"]
+}
